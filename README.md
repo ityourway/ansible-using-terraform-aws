@@ -18,7 +18,7 @@ open git bash and move to the home directory
 cd ~
 
 Now clone the repository from GitHub 
-git clone https://github.com/utrains/Ansible-Lab.git
+git clone https://github.com/ityourway/ansible-using-terraform-aws.git
 
 now cd into Ansible-Lab
 cd Ansible-Lab
